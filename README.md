@@ -54,3 +54,20 @@ and Display channels.
 - Statsmodels — statistical analysis
 
 ## Project Structure
+├── mmm_analysis.ipynb  # Main analysis notebook
+
+├── README.md           # Project documentation
+
+└── requirements.txt    # Dependencies
+
+## Note
+Dataset used in this project is synthetic, generated 
+within the notebook to simulate real-world marketing 
+spend and revenue patterns. This approach ensures 
+confidentiality while demonstrating the full MMM 
+methodology.
+
+## Author
+Shreya Verma
+Data Analyst | Marketing Analytics | MMM
+www.linkedin.com/in/shreyav05
